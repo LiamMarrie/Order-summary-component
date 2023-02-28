@@ -1,4 +1,4 @@
 # Frontend Mentor Order summary component challenge
 
-Link to challenge: 
-https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj/hub
+Live site URL: 
+https://order-summary-component-tau-nine.vercel.app/index.html
